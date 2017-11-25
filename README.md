@@ -4,6 +4,4 @@ A popular sorting algorithm implemented in Python.
 
 ## Usage
 
-```
-./qsort.py
-```
+Run the `qsort.py` or `test.sh` script.
